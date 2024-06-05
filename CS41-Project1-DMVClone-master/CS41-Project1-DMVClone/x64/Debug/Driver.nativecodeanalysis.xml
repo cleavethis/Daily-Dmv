@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\rick9\source\repos\csci-41-spring-course-project-4-group-rick-r\CS41-Project1-DMVClone-master\CS41-Project1-DMVClone\</FILEPATH>
+      <FILENAME>Driver.h</FILENAME>
+      <LINE>19</LINE>
+      <COLUMN>1</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'DriverLL::Node::nextPtr' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>DriverLL::Node::{ctor}</FUNCTION>
+    <DECORATED>??0Node@DriverLL@@QEAA@XZ</DECORATED>
+    <FUNCLINE>19</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>DriverLL::Node::nextPtr</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>
